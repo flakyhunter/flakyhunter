@@ -1,5 +1,9 @@
 # AI Workflow Engineer | Test Automation & LLM Integration
 
+📧 aleks5721501@gmail.com · 📱 [@aleks5721501](https://t.me/aleks5721501) · 🔗 [LinkedIn](https://www.linkedin.com/in/aleks-matsko-8701a3252/) · 🕒 Available for remote interviews
+
+---
+
 Building AI-powered developer tools that automate QA workflows and reduce debugging time.
 
 ## What I Build
@@ -38,12 +42,6 @@ I focus on **practical AI integration**, not proof-of-concepts:
 **Testing:** XCUITest, Playwright, pytest
 **CI/CD:** GitLab CI, GitHub Actions, Jenkins, Allure TestOps
 **Mobile:** iOS (primary), Android
-
-## Connect
-
-- **LinkedIn:** [aleks-matsko](https://www.linkedin.com/in/aleks-matsko-8701a3252/)
-- **Telegram:** @aleks5721501
-- **Email:** aleks5721501@gmail.com
 
 ---
 
